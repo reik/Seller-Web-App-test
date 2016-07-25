@@ -1,0 +1,13 @@
+{
+  "appname": "Seller Web App test",
+  "ocscope": "DevCenterImpersonate FullAccess BuyerAdmin BuyerReader DevCenterWebHookAdmin",
+  "clientid": "6797D90B-8AD7-43DE-9C49-7B0E3F82D05D",
+  "buyerid": "0000001",
+  "environment": "prod",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
